@@ -4,7 +4,6 @@ Makefile
 *副本*
 Thumbs.db
 *.doc
-*.docx
 *.pdf
 *.mts
 *.mov
